@@ -250,7 +250,7 @@ show_date: true # show the date of the post
 title:  Your Blog Post Title
 date:   XXXX-XX-XX XX:XX:XX XXXX
 description: "The description of your blog post"
-img: # the path for the hero image, from the image folder (if the image is directly on the image folder, just the filename is needed)
+img: # the path for the hero 20211212, from the 20211212 folder (if the 20211212 is directly on the 20211212 folder, just the filename is needed)
 tags: [tags, of, your, post]
 author: Your Name
 github: username/reponame/ # set this to show a github button on the post
